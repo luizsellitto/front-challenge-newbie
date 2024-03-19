@@ -1,0 +1,75 @@
+body
+{
+    background-color: rgb(19, 16, 16);
+}
+
+#central
+{
+    margin: auto;
+    margin-top: 10%;
+    height: auto;
+    width: 25%;
+    background-color: rgb(35, 30, 30);
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#fotoluiz
+{
+    border-radius: 50%;
+}
+
+#nome
+{
+    font-size: 30px;
+    margin:0px;
+    padding:0px;
+}
+
+#subtitle
+{
+    font-size: 15px;
+    margin-top:0px;
+    padding-top: 1px;
+}
+
+#description
+{
+    font-size: 12px;
+}
+
+.branco
+{
+    color:rgb(220, 238, 238);
+}
+
+.verde
+{
+    color: rgb(189, 230, 25);
+}
+
+.estilofont
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button
+{
+    background-color: rgb(61, 62, 57);
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 75%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    border: none;
+    margin: 2%;
+}
+
+.button:hover
+{
+    background-color: rgb(100, 100, 100);
+    cursor: pointer;
+}
